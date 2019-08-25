@@ -1,0 +1,17 @@
+body {
+    background-color: darkslategray;
+}
+
+input {
+    height: 300px;
+    width: 200px;
+}
+
+#message {
+    background-color: darkslategray;
+    color: deeppink;
+}
+
+#ruby, #weiss, #blake, #yang {
+    border: 2px solid white;
+}
