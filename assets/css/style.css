@@ -1,5 +1,6 @@
 body {
-    background-color: darkslategray;
+    background-image: url("../images/Grimm.jpg");
+  background-repeat: repeat;
 }
 
 input {
@@ -7,11 +8,12 @@ input {
     width: 200px;
 }
 
-#message {
+.card, .card-header {
     background-color: darkslategray;
     color: deeppink;
 }
 
 #ruby, #weiss, #blake, #yang {
     border: 2px solid white;
+    background-color: darkslategray;
 }
